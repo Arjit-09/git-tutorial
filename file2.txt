@@ -5,3 +5,5 @@ add another marketing message selection
 Another marketing message is added
 
 another fix message for pink mode
+
+another fix message for purple mode
