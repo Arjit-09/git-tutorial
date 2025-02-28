@@ -3,3 +3,5 @@ this is my file2 for git course
 add another marketing message selection
 
 Another marketing message is added
+
+another fix message for pink mode
